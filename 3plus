@@ -248,10 +248,10 @@
         },
          {
             "GameId": "36",
-            "GameLink": "https://play.google.com/store/apps/details?id=com.trillion.virtual.horse.family.adventure",
-            "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Heli/interstatila-promo.jpg",
-            "Banner": "https://raw.githubusercontent.com/nawaabzada/trillion/master/Virtual-Horse-Family-Wild-Adventure.png",
-            "Native": "https://raw.githubusercontent.com/nawaabzada/trillion/master/Virtual-Horse-Family-Wild-Adventure.jpg"
+            "GameLink": "https://play.google.com/store/apps/details?id=com.flipray.backflip.master",
+            "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/interstatial.jpg",
+            "Banner": "https://raw.githubusercontent.com/nawaabzada/backfi7/master/Backflip-Challenge.png",
+            "Native": "https://raw.githubusercontent.com/nawaabzada/flipray/master/Backflip-Challenge.jpg"
         },
         {
             "GameId": "37",
@@ -373,13 +373,6 @@
             "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/interstatial.jpg",
             "Banner": "https://raw.githubusercontent.com/Shahrozbutt735/Banners/main/Flying-Horse-Taxi-City-Transport-Horse-Games-2020.png",
             "Native": "https://raw.githubusercontent.com/nawaabzada/tingbing/master/horsy.jpg"
-        },
-        {
-            "GameId": "54",
-            "GameLink": "https://play.google.com/store/apps/details?id=com.flipray.backflip.master",
-            "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/interstatial.jpg",
-            "Banner": "https://raw.githubusercontent.com/nawaabzada/backfi7/master/Backflip-Challenge.png",
-            "Native": "https://raw.githubusercontent.com/nawaabzada/flipray/master/Backflip-Challenge.jpg"
         }
 
     ]
