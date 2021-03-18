@@ -83,6 +83,13 @@
             "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/interstatial.jpg",
             "Banner": "https://raw.githubusercontent.com/Shahrozbutt735/Banners/main/Multi-Phoenix-Heroine-City-Battle-for-Justice.png",
             "Native": "https://raw.githubusercontent.com/nawaabzada/actiontrends/master/phoenix.jpg"
+        },
+        {
+            "GameId": "13",
+            "GameLink": "https://play.google.com/store/apps/details?id=com.innhal.sniper.shoot",
+            "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/interstatial.jpg",
+            "Banner": "https://raw.githubusercontent.com/Shahrozbutt735/Banners/main/banner%20sniper.jpg",
+            "Native": "https://raw.githubusercontent.com/Shahrozbutt735/Banners/main/icon%20snipper.jpg"
         }
  
     ]
