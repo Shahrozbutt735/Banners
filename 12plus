@@ -150,6 +150,13 @@
         },
         {
             "GameId": "22",
+            "GameLink": "https://play.google.com/store/apps/details?id=com.annhilator.combat.shooter",
+            "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Heli/interstatila-promo.jpg",
+            "Banner": "https://raw.githubusercontent.com/Shahrozbutt735/Banners/main/400-BY-52.jpg",
+            "Native": "https://raw.githubusercontent.com/Shahrozbutt735/Banners/main/250-BY-250.jpg"
+        },
+        {
+            "GameId": "23",
             "GameLink": "https://play.google.com/store/apps/details?id=com.trillion.snow.tiger.family",
             "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Heli/interstatila-promo.jpg",
             "Banner": "https://raw.githubusercontent.com/nawaabzada/backfi7/master/Snow-Tiger-Family.png",
