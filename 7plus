@@ -4,99 +4,86 @@
             "GameId": "1",
              "GameLink": "https://play.google.com/store/apps/details?id=com.gigago.flying.griffin.sim",
             "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Heli/interstatila-promo.jpg",
-            "Banner": "https://raw.githubusercontent.com/Shahrozbutt735/New-Banners/main/wild-grifftin.jpg",
+            "Banner": "https://raw.githubusercontent.com/Shahrozbutt735/New-Banners/main/7plus/wild-grifftin-eagle-simulator.jpg",
             "Native": "https://raw.githubusercontent.com/nawaabzada/gigago/master/Wild-Griffin-Family-Flying-Eagle-Simulator.jpg"
         },
         {
             "GameId": "2",
             "GameLink": "https://play.google.com/store/apps/details?id=com.clanified.police.tiger.chase.crime.simulator",
             "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/interstatial.jpg",
-            
+            "Banner": "https://raw.githubusercontent.com/Shahrozbutt735/New-Banners/main/7plus/police-tiger-chase.jpg",
             "Native": "https://raw.githubusercontent.com/Shahrozbutt735/clanified/master/Police-Tiger-Chase-Simulator-City-Crime.jpg"
         },
         {
             "GameId": "3",
             "GameLink": "https://play.google.com/store/apps/details?id=com.gigago.cat.family.kitty.game.simulator",
             "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Heli/interstatila-promo.jpg",
-            
+            "Banner": "https://raw.githubusercontent.com/Shahrozbutt735/New-Banners/main/7plus/Cat%20Family%20Simulator%20Stray%20Cute%20Kitty%20Game.png",
             "Native": "https://raw.githubusercontent.com/nawaabzada/gigago/master/Cat-Family-Simulator-Stray-Cute-Kitty-Game.jpg"
         },
         {
             "GameId": "4",
             "GameLink": "https://play.google.com/store/apps/details?id=com.trillion.virtual.camel.family.jungle",
             "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/interstatial.jpg",
-            
+            "Banner": "https://raw.githubusercontent.com/Shahrozbutt735/New-Banners/main/7plus/camel-family-life.jpg",
             "Native": "https://raw.githubusercontent.com/Shahrozbutt735/Banners/main/camel.png"
         },
         {
             "GameId": "5",
-            "GameLink": "https://play.google.com/store/apps/details?id=com.clanified.scorpion.family.simulator",
+            "GameLink": "https://play.google.com/store/apps/details?id=com.trillion.sister.home.family",
             "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/interstatial.jpg",
-            
-            "Native": "https://raw.githubusercontent.com/Shahrozbutt735/clanified/master/Wild-Scorpion-Family-Jungle-Simulator.jpg"
+            "Banner": "https://raw.githubusercontent.com/Shahrozbutt735/New-Banners/main/7plus/happy-sister-family2.png",
+            "Native": "https://raw.githubusercontent.com/nawaabzada/trillion/master/Virtual-Sister-Happy-Home.jpg"
+
         },
         {
             "GameId": "6",
             "GameLink": "https://play.google.com/store/apps/details?id=com.clanified.police.city.traffic",
             "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/interstatial.jpg",
-            
+            "Banner": "https://raw.githubusercontent.com/Shahrozbutt735/New-Banners/main/7plus/police-traffic-warder.jpg",
             "Native": "https://raw.githubusercontent.com/Shahrozbutt735/clanified/master/Police-City-Traffic-Warden-Duty-2019.jpg"
         },
         {
             "GameId": "7",
             "GameLink": "https://play.google.com/store/apps/details?id=com.tingbing.duck.family.simulator",
             "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Heli/interstatila-promo.jpg",
-            
+            "Banner": "https://raw.githubusercontent.com/Shahrozbutt735/New-Banners/main/7plus/Ultimate%20Duck%20Family%20SIM%20Fantasy%20Land.png",
             "Native": "https://raw.githubusercontent.com/nawaabzada/flipray/master/nativeduck.jpg"
         },
         {
             "GameId": "8",
             "GameLink": "https://play.google.com/store/apps/details?id=com.tingbing.army.commando.missions",
             "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/interstatial.jpg",
-            
+            "Banner": "https://raw.githubusercontent.com/Shahrozbutt735/New-Banners/main/7plus/US%20Army%20Battleground%20Free%20Shooting%20Squad%20-Offline.png",
             "Native": "https://raw.githubusercontent.com/nawaabzada/tingbing/master/usarmyy.jpg"
         },
         {
             "GameId": "9",
             "GameLink": "https://play.google.com/store/apps/details?id=com.gigago.wild.owl.family.simulator",
             "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Heli/interstatila-promo.jpg",
-            
+            "Banner": "https://raw.githubusercontent.com/Shahrozbutt735/New-Banners/main/7plus/Wild%20Owl%20Bird%20Family%20Survival.png",
             "Native": "https://raw.githubusercontent.com/nawaabzada/gigago/master/Wild-Owl-Bird-Family-Survival.jpg"
         },
         {
             "GameId": "10",
-            "GameLink": "https://play.google.com/store/apps/details?id=com.tingbing.idle.stickman.flip.ninja.stunts",
+            "GameLink": "https://play.google.com/store/apps/details?id=com.gigago.lion.family.survival.jungle.safari",
             "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Heli/interstatila-promo.jpg",
-            
-            "Native": "hhttps://raw.githubusercontent.com/nawaabzada/tingbing/master/stickflip.jpg"
+            "Banner": "https://raw.githubusercontent.com/Shahrozbutt735/New-Banners/main/7plus/Jungle%20Kings%20Kingdom%20Lion%20Family.png",
+            "Native": "https://raw.githubusercontent.com/nawaabzada/gigago/master/Jungle-Kings-Kingdom-Lion-Family.jpg"
         },
         {
             "GameId": "11",
             "GameLink": "https://play.google.com/store/apps/details?id=com.action.trending.prison.escape.survival.story",
             "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Heli/interstatila-promo.jpg",
-            
+            "Banner": "",
             "Native": "https://raw.githubusercontent.com/nawaabzada/actiontrends/master/blocky.jpg"
         },
         {
             "GameId": "12",
             "GameLink": "https://play.google.com/store/apps/details?id=com.i7.dogsimulator3d",
             "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/interstatial.jpg",
-            
+            "Banner": "https://raw.githubusercontent.com/Shahrozbutt735/New-Banners/main/7plus/Dog-simulator2.png",
             "Native": "https://raw.githubusercontent.com/nawaabzada/backfi7/master/doggy.jpg"
-        },
-        {
-        "GameId": "13",
-            "GameLink": "https://play.google.com/store/apps/details?id=com.gigago.lion.family.survival.jungle.safari",
-            "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Heli/interstatila-promo.jpg",
-            
-            "Native": "https://raw.githubusercontent.com/nawaabzada/gigago/master/Jungle-Kings-Kingdom-Lion-Family.jpg"
-        },
-        {
-            "GameId": "14",
-            "GameLink": "https://play.google.com/store/apps/details?id=com.trillion.sister.home.family",
-            "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/interstatial.jpg",
-            
-            "Native": "https://raw.githubusercontent.com/nawaabzada/trillion/master/Virtual-Sister-Happy-Home.jpg"
         }
     ]
 }
